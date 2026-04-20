@@ -1,6 +1,23 @@
-# TCP-IP-Chat-Room-using-C
+
 The TCP/IP Chat Room is a real-time multi-client chat application developed Using Adv C
 # TCP/IP Chat Room using C
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/14282d7e-7916-4e2c-a29b-fcd29c42c973" />
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/fe6c7ca6-8e71-4712-a20d-02d52b026237" />
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/485dfb5c-c5c5-40d6-a839-3fde6435f5b8" />
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/94e47284-5dac-4d7f-b4e1-e3e33e6ef84d" />
+
+<img width="1600" height="780" alt="image" src="https://github.com/user-attachments/assets/3cecf111-0e40-40dd-a884-1074d18e3183" />
+
+
+
+https://github.com/user-attachments/assets/76b72bc3-1fa5-4ad1-b277-6fc12614676d
+
+
+
 
 # Project Overview
 
